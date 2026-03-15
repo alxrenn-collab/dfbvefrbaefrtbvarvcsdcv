@@ -3,7 +3,7 @@ payload:
 - PROCESS-NAME,LeagueClient.exe
 - PROCESS-NAME,Discord.exe
 - DOMAIN,sfmcompile.club
-
+- PROCESS-NAME,Telegram.exe
 
 
 
