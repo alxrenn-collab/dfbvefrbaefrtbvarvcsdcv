@@ -4,6 +4,6 @@ payload:
 - PROCESS-NAME,Discord.exe
 - DOMAIN,sfmcompile.club
 - PROCESS-NAME,Telegram.exe
-
+- DOMAIN-KEYWORD,telegram
 
 
