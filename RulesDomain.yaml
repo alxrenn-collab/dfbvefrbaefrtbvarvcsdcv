@@ -1,5 +1,4 @@
 payload:
-- DOMAIN,
 - PROCESS-NAME,LeagueClient.exe
 - PROCESS-NAME,Discord.exe
 - DOMAIN,sfmcompile.club
