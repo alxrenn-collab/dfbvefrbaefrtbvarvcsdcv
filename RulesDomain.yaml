@@ -4,5 +4,5 @@ payload:
 - DOMAIN,sfmcompile.club
 - PROCESS-NAME,Telegram.exe
 - DOMAIN-KEYWORD,telegram
-
+PROCESS-NAME,ShiftAtMidnight.exe
 
