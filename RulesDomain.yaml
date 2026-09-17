@@ -5,4 +5,7 @@ payload:
 - PROCESS-NAME,Telegram.exe
 - DOMAIN-KEYWORD,telegram
 - PROCESS-NAME,ShiftAtMidnight.exe
-
+ # === BF1 ===
+- PROCESS-NAME,bf1.exe
+- PROCESS-NAME,EADesktop.exe
+- PROCESS-NAME,EABackgroundService.exe
