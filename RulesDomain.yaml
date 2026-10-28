@@ -9,3 +9,4 @@ payload:
 - PROCESS-NAME,bf1.exe
 - PROCESS-NAME,EADesktop.exe
 - PROCESS-NAME,EABackgroundService.exe
+- PROCESS-NAME,TOTClient.exe
